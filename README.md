@@ -1,20 +1,32 @@
 # Hello_Melissa
+
 # - Melissa Elvia Salazar Carrillo
+
 # - ITC
+
 # - Saltillo
+
 ## - Rayados
+
+# rayados vs atlas 2-1
+
+# tigres vs mazatlan 5-1
+
 # **Semana Tec**
+
 # 2.Tipos de letra
+
 **bold**
-*itaic*
+_itaic_
+
 > block
 
 > hola
 
 > adios
->
 
 # 3. Lista enumerada
+
 1. gorditas doña tota
 2. corundas de morelia
 3. tortas de la barda
@@ -25,11 +37,13 @@
 8. chilaquiles tec
 
 # 4. Lista con viñetas
+
 - tacos güero
 - tacos la morolense
 - tacos el portón
 
 #5. código
+
 ```python
 from turtle import *
 
@@ -60,25 +74,32 @@ def square(start, end):
 ```
 
 ---
+
 # 6. rule
+
 ---
+
 # 7. Link
+
 [freegames](https://grantjenks.com/docs/freegames/#paint)
 
 # 8. Imagen
+
 ![chango](https://media.tenor.com/bHPtDRPrGycAAAAM/aww.gif)
 
 # 9. Tabla
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 # 10. lista de equipo
+
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
 
 # 11. emoji
-That is so funny! :joy:
 
+That is so funny! :joy:
